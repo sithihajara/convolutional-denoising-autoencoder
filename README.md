@@ -121,7 +121,7 @@ plt.show()
 ![OP2](https://github.com/sithihajara/convolutional-denoising-autoencoder/assets/94219582/1993bc5a-2a6c-4dd8-9ed2-b20ac1a84238)
 
 ### Original vs Noisy Vs Reconstructed Image
-![Uploading op2.png…]()
+![image](https://github.com/sithihajara/convolutional-denoising-autoencoder/assets/94219582/57b5297d-fd07-4ea3-8305-6d23e07590df)
 
 
 ## RESULT
