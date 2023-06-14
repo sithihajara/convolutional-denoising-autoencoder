@@ -5,10 +5,12 @@
 To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
+The image dataset is given and the model must denoise the images and show it with better quality and remove the unwanted noises and learn to show the better version of the images.
+![dataset](https://github.com/sithihajara/convolutional-denoising-autoencoder/assets/94219582/7a75c5b3-b087-42e9-8e10-bfd4b38c6297)
 
 ## Convolution Autoencoder Network Model
 
-Include the neural network model diagram.
+![240146350-aba61145-8263-40ec-99a5-bb28c0804a84](https://github.com/sithihajara/convolutional-denoising-autoencoder/assets/94219582/9bbc2a49-dcd0-4b0d-b6ff-38f48666af36)
 
 ## DESIGN STEPS
 
